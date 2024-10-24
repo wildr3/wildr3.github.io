@@ -10,6 +10,8 @@ mathjax: true
 author: Ruby Wildman
 ---
 
+[Mind-Set Matters: Exercise and the Placebo Effect]([https://deanattali.com/](https://www-jstor-org.horacemann.idm.oclc.org/stable/40064598?searchText=%28ti%3A%28placebo%29%29&searchUri=%2Faction%2FdoAdvancedSearch%3Fq0%3Dplacebo%26f0%3Dti%26c1%3DAND%26f1%3Dall%26acc%3Don%26so%3Drel%26efqs%3DeyJjdHkiOlsiYW05MWNtNWhiQT09Il19&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A07488dfcf1bceb5eeed3b3dbe306ba26))
+
 ## Null and Alternative hypotheses?
 Null Hypothesis: no difference in health outcomes (weight, blood pressure, body fat, waist-to-hip ratio, and BMI) between the informed group (the ones who were told their work is exercise) and the control group (those who were not told). Or the control group shows a decrease in health outcomes compared to the informed group.
 
