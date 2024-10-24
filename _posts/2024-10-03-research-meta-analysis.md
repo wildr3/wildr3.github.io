@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research Meta Analysis
-subtitle: Mind-Set Matters: Exercise and the Placebo Effect
+subtitle: Mind-Set Matters":" Exercise and the Placebo Effect
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
