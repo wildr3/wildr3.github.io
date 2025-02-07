@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Lab 3!
-subtitle: Analyzing Simulated Roulette Dataset
-cover-img: /assets/img/roulette.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/roulette.jpg
+title: Inspir Altair Experimenting 
+subtitle: Creating graphs inspired by NYT visualizations
+cover-img: /assets/img/trump_word_freq.jpg
+thumbnail-img: /assets/img/trump_word_freq.png
+share-img: /assets/img/trump_word_freq.jpg
 tags: [books, test]
 author: Ruby Wildman
 ---
