@@ -17,19 +17,17 @@ During a 2-week scuba trip over summer 2024, my scuba instructors spoke about or
 There are many theories: territorial defense, curiosity and playfulness, protective moms, environmental stressors, human interference, or unusual prey. Ranging from food shortages to noise pollution to learned trauma, one orca stands out: White Gladis. She experienced a traumatic event that potentially led her to target rudders, and possibly inspire or teach others to follow. I decided to explore these events using scraped data from public whale reports, comparing environmental conditions, and eventually bluefin tuna population data.
 
 
-# Graphs Created 
+# Graphs Created
 
-<head>
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-</head>
+<!-- Vega libraries -->
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 <div id="vis"></div>
 
 <script type="text/javascript">
-  var spec = "https://raw.githubusercontent.com/vega/vega/master/docs/examples/bar-chart.vg.json";
-  vegaEmbed('#vis', /Users/rubywildman/AOD/wildr3.github.io/assets/img/orca_contact_vs_wind_speed.json).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  vegaEmbed('#vis', '/assets/img/orca_contact_vs_wind_speed.json').then(function(result) {
+    // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
