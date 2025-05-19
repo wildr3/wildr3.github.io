@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab 3!
+title: Final Project: Killer Whale Behavior
 subtitle: Analyzing Simulated Roulette Dataset
 cover-img: /assets/img/roulette.jpg
 thumbnail-img: /assets/img/thumb.png
