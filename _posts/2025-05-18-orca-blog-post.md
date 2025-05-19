@@ -29,7 +29,7 @@ There are many theories: territorial defense, curiosity and playfulness, protect
 
 <script type="text/javascript">
   var spec = "https://raw.githubusercontent.com/vega/vega/master/docs/examples/bar-chart.vg.json";
-  vegaEmbed('#vis', /Users/rubywildman/AOD/Pandas/Final Project /orca_contact_vs_wind_speed.json).then(function(result) {
+  vegaEmbed('#vis', /Users/rubywildman/AOD/wildr3.github.io/assets/img/orca_contact_vs_wind_speed.json).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
