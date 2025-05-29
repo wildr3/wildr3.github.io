@@ -12,6 +12,9 @@ author: Ruby Wildman
 
 # Analyzing Orca Whale Rudder Attacks
 
+
+[insert personal photo here]
+
   Way back in 2014, I visited SeaWorld and, since then, have been fascinated by orca whales, or “killer” whales. Unfortunately, at this time, my family and I weren’t aware of the corruption and animal cruelty in this industry. Despite Dawn Brancheau and Tilikum’s tragic accident way back in 2010, the orca’s cruelty wasn’t publicized. Films like “Blackfish” shed light on the tragic reality behind these performances. After watching this documentary in 2019, I have been fascinated by orcas, not as entertainment, but as emotionally intelligent and complex predators.
 
 [dawn and tilikum/blackfish here]
