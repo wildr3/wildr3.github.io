@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Iberian Orca Whale Data 
-subtitle: Analyzing Simulated Roulette Dataset
-cover-img: /assets/img/roulette.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/roulette.jpg
+subtitle: Attempting to uncover why orca whales are attacking rudders along the Iberian Peninsula
+cover-img: /assets/img/whale_photo.jpg
+thumbnail-img: /assets/img/whale_photo.png
+share-img: /assets/img/whale_photo.jpg
 tags: [books, test]
 author: Ruby Wildman
 ---
@@ -42,7 +42,7 @@ author: Ruby Wildman
 <div id="vis"></div>
 
 
-##Description of Orca Behavior vs Damage
+
 <script type="text/javascript">
   vegaEmbed('#vis', '/assets/img/behavior_description_vs_damage.json').then(function(result) {
     // Access the Vega view instance as result.view
@@ -50,14 +50,14 @@ author: Ruby Wildman
 </script>
 
 
-##Frequency of Orca Attacks
+
 <script type="text/javascript">
   vegaEmbed('#vis1', '/assets/img/orca_attack_frequency.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
-##Orca Behavior by Moon Phase
+
 <script type="text/javascript">
   vegaEmbed('#vis2', '/assets/img/orca_behavior_by_moon_phase.json').then(function(result) {
     // Access the Vega view instance as result.view
@@ -65,21 +65,21 @@ author: Ruby Wildman
 </script>
 
 
-##Orca Interactions at Different Stages of the Day
+
 <script type="text/javascript">
   vegaEmbed('#vis3', '/assets/img/orca_interactions_by_stage_of_day.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
-##Rudder Type vs Damage
+
 <script type="text/javascript">
   vegaEmbed('#vis4', '/assets/img/rudder_vs_damage.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
-##Sea State vs Interaction Frequency
+
 <script type="text/javascript">
   vegaEmbed('#vis5', '/assets/img/sea_state_vs_interaction_frequency.json').then(function(result) {
     // Access the Vega view instance as result.view
