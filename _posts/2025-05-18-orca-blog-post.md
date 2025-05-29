@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project.... Killer Whale Behavior!
+title: Iberian Orca Whale Data 
 subtitle: Analyzing Simulated Roulette Dataset
 cover-img: /assets/img/roulette.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -49,16 +49,17 @@ author: Ruby Wildman
   }).catch(console.error);
 </script>
 
+
 ##Frequency of Orca Attacks
 <script type="text/javascript">
-  vegaEmbed('#vis', '/assets/img/orca_attack_frequency.json').then(function(result) {
+  vegaEmbed('#vis1', '/assets/img/orca_attack_frequency.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
 ##Orca Behavior by Moon Phase
 <script type="text/javascript">
-  vegaEmbed('#vis', '/assets/img/orca_behavior_by_moon_phase.json').then(function(result) {
+  vegaEmbed('#vis2', '/assets/img/orca_behavior_by_moon_phase.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
@@ -66,25 +67,25 @@ author: Ruby Wildman
 
 ##Orca Interactions at Different Stages of the Day
 <script type="text/javascript">
-  vegaEmbed('#vis', '/assets/img/orca_interactions_by_stage_of_day.json').then(function(result) {
+  vegaEmbed('#vis3', '/assets/img/orca_interactions_by_stage_of_day.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
 ##Rudder Type vs Damage
 <script type="text/javascript">
-  vegaEmbed('#vis', '/assets/img/rudder_vs_damage.json').then(function(result) {
+  vegaEmbed('#vis4', '/assets/img/rudder_vs_damage.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
 ##Sea State vs Interaction Frequency
 <script type="text/javascript">
-  vegaEmbed('#vis', '/assets/img/sea_state_vs_interaction_frequency.json').then(function(result) {
+  vegaEmbed('#vis5', '/assets/img/sea_state_vs_interaction_frequency.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
-[insert 6 graphs here]
+
 
 
