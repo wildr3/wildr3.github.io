@@ -41,8 +41,6 @@ author: Ruby Wildman
 
 <div id="vis"></div>
 
-
-
 <script type="text/javascript">
   vegaEmbed('#vis', '/assets/img/behavior_description_vs_damage.json').then(function(result) {
     // Access the Vega view instance as result.view
@@ -50,14 +48,14 @@ author: Ruby Wildman
 </script>
 
 
-
+<div id="vis1"></div>
 <script type="text/javascript">
   vegaEmbed('#vis1', '/assets/img/orca_attack_frequency.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
-
+<div id="vis2"></div>
 <script type="text/javascript">
   vegaEmbed('#vis2', '/assets/img/orca_behavior_by_moon_phase.json').then(function(result) {
     // Access the Vega view instance as result.view
@@ -65,21 +63,21 @@ author: Ruby Wildman
 </script>
 
 
-
+<div id="vis3"></div>
 <script type="text/javascript">
   vegaEmbed('#vis3', '/assets/img/orca_interactions_by_stage_of_day.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
-
+<div id="vis4"></div>
 <script type="text/javascript">
   vegaEmbed('#vis4', '/assets/img/rudder_vs_damage.json').then(function(result) {
     // Access the Vega view instance as result.view
   }).catch(console.error);
 </script>
 
-
+<div id="vis5"></div>
 <script type="text/javascript">
   vegaEmbed('#vis5', '/assets/img/sea_state_vs_interaction_frequency.json').then(function(result) {
     // Access the Vega view instance as result.view
