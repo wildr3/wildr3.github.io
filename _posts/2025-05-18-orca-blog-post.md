@@ -2,8 +2,8 @@
 layout: post
 title: Iberian Orca Whale Data 
 subtitle: Attempting to uncover why orca whales are attacking rudders along the Iberian Peninsula
-cover-img: /assets/img/whale_photo.jpg
-thumbnail-img: /assets/img/whale_photo.png
+cover-img: /assets/img/gladisbaby.png
+thumbnail-img: /assets/img/gladisbaby.png
 share-img: /assets/img/whale_photo.jpg
 tags: [books, test]
 author: Ruby Wildman
